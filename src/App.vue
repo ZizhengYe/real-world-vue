@@ -1,8 +1,11 @@
 <template>
   <div id="app">
     <nav>
-      <router-link to="/">Home</router-link> |
-      <router-link to="/about">About</router-link>
+      <router-link :to="{ name: 'event-list' }">List</router-link> |
+      <router-link :to="{ name: 'event-create' }">Create</router-link> |
+      <router-link :to="{ name: 'user', params: { username: 'Gregg' } }"
+        >Gregg</router-link
+      >
     </nav>
     <router-view />
   </div>
