@@ -73,158 +73,166 @@
       ]
     },
     {
-      "id": 327035,
-      "category": "housing",
-      "organizer": {
-        "id": "abc123",
-        "name": "Adam Jahr"
-      },
-      "title": "Check",
-      "description": "",
-      "location": "",
-      "date": "",
-      "time": "",
-      "attendees": []
+      "id": 4,
+      "title": "Disco Party",
+      "date": "Aug 28 2018",
+      "time": "10:00",
+      "location": "Daytona Beach",
+      "description": "Let's clean up this beach.",
+      "organizer": "Adam Jahr",
+      "category": "sustainability",
+      "attendees": [
+        {
+          "id": "abc123",
+          "name": "Adam Jahr"
+        },
+        {
+          "id": "def456",
+          "name": "Gregg Pollack"
+        },
+        {
+          "id": "ghi789",
+          "name": "Beth Swanson"
+        },
+        {
+          "id": "jkl101",
+          "name": "Mary Gordon"
+        }
+      ]
     },
     {
-      "id": 2700119,
-      "category": "education",
-      "organizer": {
-        "id": "abc123",
-        "name": "Adam Jahr"
-      },
-      "title": "Test",
-      "description": "123132",
-      "location": "",
-      "date": "",
-      "time": "",
-      "attendees": []
-    },
-    {
-      "id": 8397900,
+      "id": 5,
+      "title": "Vue Users Group",
+      "date": "Nov 12 2018",
+      "time": "12:00",
+      "location": "132 N Magnolia Street, Orlando, Florida",
+      "description": "We're going to clean up this park.",
+      "organizer": "Adam Jahr",
       "category": "nature",
-      "organizer": {
-        "id": "abc123",
-        "name": "Adam Jahr"
-      },
-      "title": "Planting a Tree",
-      "description": "Let's plant a tree",
-      "location": "Forest",
-      "date": "2022-05-03T17:27:00.000Z",
-      "time": "13:00",
-      "attendees": []
+      "attendees": [
+        {
+          "id": "ghi789",
+          "name": "Beth Swanson"
+        },
+        {
+          "id": "jkl101",
+          "name": "Mary Gordon"
+        }
+      ]
     },
     {
-      "id": 2831061,
-      "category": "housing",
-      "organizer": {
-        "id": "abc123",
-        "name": "Adam Jahr"
-      },
-      "title": "1221312312",
-      "description": "213123123",
-      "location": "",
-      "date": "",
-      "time": "",
-      "attendees": []
+      "id": 6,
+      "title": "Orlando Dev Meetup",
+      "date": "Dec 2 2018",
+      "time": "12:00",
+      "location": "132 N Magnolia Street, Orlando, Florida",
+      "description": "Help animals find new homes.",
+      "organizer": "Gregg Pollack",
+      "category": "animal welfare",
+      "attendees": [
+        {
+          "id": "abc123",
+          "name": "Adam Jahr"
+        },
+        {
+          "id": "ghi789",
+          "name": "Beth Swanson"
+        },
+        {
+          "id": "jkl101",
+          "name": "Mary Gordon"
+        }
+      ]
     },
     {
-      "id": 5387457,
-      "category": "education",
-      "organizer": {
-        "id": "abc123",
-        "name": "Adam Jahr"
-      },
-      "title": "000000",
-      "description": "000",
-      "location": "00000",
-      "date": "",
-      "time": "",
-      "attendees": []
+      "id": 7,
+      "title": "Yoga Class",
+      "date": "Aug 28 2018",
+      "time": "10:00",
+      "location": "Daytona Beach",
+      "description": "Let's clean up this beach.",
+      "organizer": "Adam Jahr",
+      "category": "sustainability",
+      "attendees": [
+        {
+          "id": "abc123",
+          "name": "Adam Jahr"
+        },
+        {
+          "id": "def456",
+          "name": "Gregg Pollack"
+        },
+        {
+          "id": "ghi789",
+          "name": "Beth Swanson"
+        },
+        {
+          "id": "jkl101",
+          "name": "Mary Gordon"
+        }
+      ]
     },
     {
-      "id": 6663039,
-      "category": "community",
-      "organizer": {
-        "id": "abc123",
-        "name": "Adam Jahr"
-      },
-      "title": "111",
-      "description": "111",
-      "location": "111",
-      "date": "",
-      "time": "",
-      "attendees": []
+      "id": 8,
+      "title": "Breathing Meditation",
+      "date": "Nov 12 2018",
+      "time": "12:00",
+      "location": "132 N Magnolia Street, Orlando, Florida",
+      "description": "We're going to clean up this park.",
+      "organizer": "Adam Jahr",
+      "category": "nature",
+      "attendees": [
+        {
+          "id": "ghi789",
+          "name": "Beth Swanson"
+        },
+        {
+          "id": "jkl101",
+          "name": "Mary Gordon"
+        }
+      ]
     },
     {
-      "id": 2229663,
+      "id": 9,
+      "title": "Dancing Class",
+      "date": "Dec 2 2018",
+      "time": "12:00",
+      "location": "132 N Magnolia Street, Orlando, Florida",
+      "description": "Help animals find new homes.",
+      "organizer": "Gregg Pollack",
+      "category": "animal welfare",
+      "attendees": [
+        {
+          "id": "abc123",
+          "name": "Adam Jahr"
+        },
+        {
+          "id": "ghi789",
+          "name": "Beth Swanson"
+        },
+        {
+          "id": "jkl101",
+          "name": "Mary Gordon"
+        }
+      ]
+    },
+    {
+      "id": 10,
       "category": "animal welfare",
       "organizer": {
-        "id": "abc123",
-        "name": "Adam Jahr"
+        "user": {
+          "id": "abc123",
+          "name": "Adam Jahr"
+        }
       },
-      "title": "adada",
-      "description": "adasdasdas",
-      "location": "dadsdas",
+      "title": "Gregg's Event",
+      "description": "We'll do stuff",
+      "location": "Your House",
       "date": "",
-      "time": "",
-      "attendees": []
-    },
-    {
-      "id": 7139233,
-      "category": "food",
-      "organizer": {
-        "id": "abc123",
-        "name": "Adam Jahr"
-      },
-      "title": "food",
-      "description": "food",
-      "location": "food",
-      "date": "",
-      "time": "",
-      "attendees": []
-    },
-    {
-      "id": 7154092,
-      "category": "housing",
-      "organizer": {
-        "id": "abc123",
-        "name": "Adam Jahr"
-      },
-      "title": "asdadas",
-      "description": "asdasd",
-      "location": "adasd",
-      "date": "",
-      "time": "",
-      "attendees": []
-    },
-    {
-      "id": 3277758,
-      "category": "education",
-      "organizer": {
-        "id": "abc123",
-        "name": "Adam Jahr"
-      },
-      "title": "fdssdfs",
-      "description": "fsdfsdfs",
-      "location": "fssdfsdfsd",
-      "date": "",
-      "time": "",
-      "attendees": []
-    },
-    {
-      "id": 3271853,
-      "category": "food",
-      "organizer": {
-        "id": "abc123",
-        "name": "Adam Jahr"
-      },
-      "title": "fdsff",
-      "description": "sdfdsf",
-      "location": "dsfs",
-      "date": "",
-      "time": "",
-      "attendees": []
+      "time": "5:00",
+      "attendees": [
+        
+      ]
     }
   ]
 }
